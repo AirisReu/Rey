@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="darkblue">
+<title>Dr Reynold Fregoli</title>
+
+<style>
+body{
+	margin:0;
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	background-color: #F4F5FD;
+}
+h1{
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	color: darkblue;
+}
+.topnav{
+	overflow: hidden;
+	margin-top: 26px;
+	margin-left: 16px;
+	margin-right: 16px;
+	border: solid 1px black;
+	background-color: #F4F5FD;
+}
+.topnav a{
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover{
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.topnav a.active{
+	color: dimgray;
+	cursor: default;
+	text-decoration: underline;
+}
+.topnav a.inactive{
+	color: lightgray;
+	text-decoration: none;
+	cursor: not-allowed;
+}
+.main {
+  padding: 28px;
+  margin-top: 16px;
+  height: 100%;
+}
+.main a{
+	color: darkblue;
+}
+
+</style>
+</head>
+
+<body>
+	<!--Topnav-->
+	<div class="topnav">
+		<a class="active">Home</a>
+		<a class="inactive">Contact Me</a>
+		<a class="inactive">Research</a>
+		<a class="inactive">Teaching</a>
+		<a class="inactive">Conferences</a>
+    
+	</div>
+  
+<!--Page content-->
+	<div class="main">
+	<h1>Reynold Fregoli</h1>
+	<p>Universität Zürich<br>Winterthurerstrasse 190<br>8057 Zürich<br>Switzerland (CH)</p>
+
+	<p>E-mail: reynold.fregoli@math.uzh.ch</p>
+	<a href="https://www.math.uzh.ch/index.php?id=people&key1=30088&L=1#">View Profile --></a>
+
+</div>
+
+</body>
+
