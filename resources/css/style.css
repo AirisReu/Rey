@@ -1,0 +1,171 @@
+/*~~~~~~~~~GLOBAL CONFIGS~~~~~~~~~*/
+body {
+	height: 100%;
+	background-image: url("/Users/airis/Downloads/002C.jpg");
+	background-image: url("../images/bckdrp2.jpg");
+	background-image: url("/Users/airidasjuodinis/Downloads/IMG_5943.HEIC");
+	background: lightgray;
+	font-family: Verdana;
+	font-size: 11pt;
+}
+
+h1 {
+	color: darkblue;
+}
+
+p {
+	text-align: justify;
+}
+
+a {
+	color: blue;
+}
+
+a:hover {
+	color: purple;
+}
+/*--------------------------------*/
+
+
+/*~~~~~~~~~~MAIN CONFIGS~~~~~~~~~~*/
+header {
+	padding-top: 16px;
+}
+header ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	overflow: hidden;
+	text-align: center;
+}
+
+header li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+#current {
+	color: darkblue;
+	text-decoration: none;
+	cursor: default;
+}
+
+.rss-sitemap a::before {
+	content: "[";
+	color: black;
+}
+
+.rss-sitemap a::after {
+	content: "]";
+	color: black;
+}
+
+.page {
+	/*width: 50%;*/
+	max-width: 760px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 26px;
+	margin-bottom: 36px;
+	padding: 6px;
+	background-color: #FCFCF3;
+	border-radius: 3px;
+	box-shadow: 6px 6px 16px gray;
+}
+
+.page-content-container {
+	padding: 0 26px 0 26px;
+	border-left: lightgray solid 1px;
+	border-right: lightgray solid 1px;
+}
+
+#portrait {
+	float: left;
+	width: 160px;
+	height: auto;
+	padding-right: 16px;
+	margin-top: 6px;
+}
+
+footer {
+	background-color: rgb(45, 67, 100);
+	color: lightgray;
+	padding: 3px;
+	padding-left: 18pt;
+	padding-right: 18pt;
+	border-radius: 0 0 3px 3px;
+	font-size: 9pt;
+}
+
+footer a {
+	color: lightgray;
+}
+
+footer a:hover {
+	color: lightyellow;
+}
+
+footer ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	overflow: hidden;
+}
+
+footer li {
+	display: inline-block;
+}
+
+footer ul li:not(:first-child)::before {
+	content: "| ";
+}
+/*--------------------------------*/
+
+.article h2 {
+	margin-bottom: 1px;
+	font-size: 11pt;
+}
+
+.authors, .publication-date {
+	color: dimgray;
+}
+
+.article ul {
+	margin: 0;
+	padding: 0;
+	margin-top: 14px;
+	list-style: none;
+	overflow: hidden;
+}
+
+.article li {
+	display: inline-block;
+	padding-right: 16px;
+}
+
+.article a {
+	color: darkblue;
+}
+
+.article a:hover {
+	color: purple;
+}
+
+.article-buttons a::before {
+	content: "[";
+	color: dimgray;
+}
+
+.article-buttons a::after {
+	content: "]";
+	color: dimgray;
+}
+
+
+
+
+
+
+
+
+
