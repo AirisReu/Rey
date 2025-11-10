@@ -16,16 +16,13 @@ header ul li {
 	margin-bottom: -26px;
 }
 
-span::before {
-	content: url('../images/cv.png') "  ";
-}
-
 iframe {
 	display: none;
 }
 
 footer {
 	font-size: 10pt;
+	text-align: center;
 }
 
 footer ul li {
@@ -36,4 +33,5 @@ footer ul li {
 footer ul li::before {
 	content: ""!important;
 }
+
 
