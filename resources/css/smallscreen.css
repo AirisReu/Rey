@@ -16,6 +16,10 @@ header ul li {
 	margin-bottom: -26px;
 }
 
+span::before {
+	content: url('../images/cv.png') "  ";
+}
+
 iframe {
 	display: none;
 }
@@ -32,3 +36,4 @@ footer ul li {
 footer ul li::before {
 	content: ""!important;
 }
+
