@@ -1,6 +1,6 @@
 header ul li {
 	display: list-item;
-	font-size: 16pt;
+	font-size: 12pt;
 	padding-bottom: 6px;
 }
 
@@ -22,4 +22,13 @@ iframe {
 
 footer {
 	font-size: 10pt;
+}
+
+footer ul li {
+	display: list-item;
+	padding-top: 6px;
+}
+
+footer ul li::before {
+	content: ""!important;
 }
