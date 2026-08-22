@@ -82,8 +82,7 @@ header li {
 #portrait {
 	float: left;
 	width: 160px;
-	height: 160px;
-	overflow: hidden;
+	height: auto;
 	padding-right: 16px;
 	margin-top: 6px;
 }
