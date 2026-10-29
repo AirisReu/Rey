@@ -7,8 +7,13 @@ body {
 	font-size: 11pt;
 }
 
+.big-header {
+	color: darkblue;
+}
+
 h1 {
 	color: darkblue;
+	font-size: 1.6em;
 }
 
 p {
