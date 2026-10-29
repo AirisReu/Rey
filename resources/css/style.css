@@ -8,13 +8,14 @@ body {
 	font-size: 11pt;
 }
 
-.big-header {
-	color: darkblue;
-}
-
 h1 {
 	color: darkblue;
 	font-size: 1em;
+}
+
+h1 .big-header {
+	color: darkblue;
+	font-size: norma;
 }
 
 p {
