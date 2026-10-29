@@ -7,16 +7,30 @@
   <description>Website feed: new article alerts, article preliminary versions, new file uploads and access to older versions.</description>
 
   <item>
+    <title>PREPRINT: Diophantine properties of two-dimensional Mahler vectors</title>
+    <link>https://reynoldfregoli.com/research#DPTDMV</link>
+    <description>Diophantine properties of two-dimensional Mahler vectors. Authors: Reynold Fregoli and Youyi Zhang. Submitted (2026).</description>
+    <category>Article Update</category>
+  </item>
+  
+  <item>
+    <title>PREPRINT: On the Hausdorff dimension of weighted excatly approximnable vectors</title>
+    <link>https://reynoldfregoli.com/research#OHDWEAV</link>
+    <description>On the Hausdorff dimension of weighted excatly approximnable vectors. Authors: Prasuna Bandi and Reynold Fregoli. Submitted (2026).</description>
+    <category>Article Update</category>
+  </item>
+  
+  <item>
     <title>PREPRINT: Central limit theorems in multiplicative Diophantine approximation</title>
     <link>https://reynoldfregoli.com/research#CLTMDA</link>
-    <description>Central limit theorems in multiplicative Diophantine approximation. Authors: Michael Björklund, Reynold Fregoli, and Alexander Gorodnik . Submitted (2026).</description>
+    <description>Central limit theorems in multiplicative Diophantine approximation. Authors: Michael Björklund, Reynold Fregoli, and Alexander Gorodnik. Submitted (2026).</description>
     <category>Article Update</category>
   </item>
   
   <item>
     <title>PREPRINT: Submanifold-genericity of R^d-actions and uniform multiplicative Diophantine approximation</title>
     <link>https://reynoldfregoli.com/research#SGRDAUMDA</link>
-    <description>Submanifold-genericity of R^d-actions and uniform multiplicative Diophantine approximation . Authors: Prasuna Bandi, Reynold Fregoli, and Dmitry Kleinbock. Submitted (2025).</description>
+    <description>Submanifold-genericity of R^d-actions and uniform multiplicative Diophantine approximation. Authors: Prasuna Bandi, Reynold Fregoli, and Dmitry Kleinbock. Submitted (2025).</description>
     <category>Article Update</category>
   </item>
   
