@@ -130,6 +130,7 @@ footer ul li:not(:first-child)::before {
 .preprint-container {
 	background: rgb(240, 240, 240);
 	background: white;
+	background: rgb(248, 248, 250);
 	border: gray solid 1px;
 	border-left: black outset 3px;
 	padding: 6px;
