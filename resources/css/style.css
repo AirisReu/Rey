@@ -37,6 +37,8 @@ header ul {
 	list-style: none;
 	overflow: hidden;
 	text-align: center;
+	text-align: left;
+	margin-left: 26px;
 }
 
 header li {
