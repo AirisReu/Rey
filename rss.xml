@@ -5,18 +5,32 @@
   <title>Dr Reynold Fregoli - Math</title>
   <link>https://www.reynoldfregoli.com</link>
   <description>Website feed: new article alerts, article preliminary versions, new file uploads and access to older versions.</description>
+
+  <item>
+    <title>PREPRINT: Central limit theorems in multiplicative Diophantine approximation</title>
+    <link>https://reynoldfregoli.com/research#CLTMDA</link>
+    <description>Central limit theorems in multiplicative Diophantine approximation. Authors: Michael Björklund, Reynold Fregoli, and Alexander Gorodnik . Submitted (2026).</description>
+    <category>Article Update</category>
+  </item>
   
   <item>
-    <title>Preprint: Sums of reciprocals of fractional parts II</title>
+    <title>PREPRINT: Submanifold-genericity of R^d-actions and uniform multiplicative Diophantine approximation</title>
+    <link>https://reynoldfregoli.com/research#SGRDAUMDA</link>
+    <description>Submanifold-genericity of R^d-actions and uniform multiplicative Diophantine approximation . Authors: Prasuna Bandi, Reynold Fregoli, and Dmitry Kleinbock. Submitted (2025).</description>
+    <category>Article Update</category>
+  </item>
+  
+  <item>
+    <title>PREPRINT: Sums of reciprocals of fractional parts II</title>
     <link>https://reynoldfregoli.com/research#SRFP2</link>
     <description>Sums of reciprocals of fractional parts II. Authors: Reynold Fregoli (with an appendix by Michael Björklund and Alexander Gorodnik). Submitted (2023).</description>
     <category>Article Update</category>
   </item>
   
   <item>
-    <title>Updated Résumé/CV file</title>
+    <title>Updated Résumé</title>
     <link>https://reynoldfregoli.com/cv</link>
-    <description>A new version of my résumé uploaded. Older version is available at https://reynoldfregoli.com/resources/files/CV_older_version.pdf</description>
+    <description>A new version of résumé uploaded. Older version is available at https://reynoldfregoli.com/resources/files/CV_older_version.pdf</description>
     <category>Files: access to older versions</category>
   </item>
 </channel>
