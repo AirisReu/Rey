@@ -4,7 +4,7 @@
 <channel>
   <title>Dr Reynold Fregoli - Math</title>
   <link>https://www.reynoldfregoli.com</link>
-  <description>Website feed: new article alerts, article preliminary versions, new file uploads and access to older versions.</description>
+  <description>Research updates: new article and publication alerts.</description>
 
   <item>
     <title>PREPRINT: Diophantine properties of two-dimensional Mahler vectors</title>
@@ -40,12 +40,6 @@
     <description>Sums of reciprocals of fractional parts II. Authors: Reynold Fregoli (with an appendix by Michael Björklund and Alexander Gorodnik). Submitted (2023).</description>
     <category>Article Update</category>
   </item>
-  
-  <item>
-    <title>Updated Résumé</title>
-    <link>https://reynoldfregoli.com/cv</link>
-    <description>A new version of résumé uploaded. Older version is available at https://reynoldfregoli.com/resources/files/CV_older_version.pdf</description>
-    <category>Files: access to older versions</category>
-  </item>
+
 </channel>
 </rss>
